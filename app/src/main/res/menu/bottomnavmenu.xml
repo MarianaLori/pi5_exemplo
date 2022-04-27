@@ -18,5 +18,9 @@
         android:icon="@drawable/album"
         android:title="Álbuns"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/playlists"
+        android:icon="@drawable/playlist"
+        android:title="Playlists" />
 
 </menu>

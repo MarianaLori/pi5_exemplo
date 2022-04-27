@@ -1,0 +1,5 @@
+bottom navigation usa arquivos de menu
+    res > menu > toolbarmenu
+
+criar ícones
+    resource manager > + > vector assets

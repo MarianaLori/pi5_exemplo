@@ -36,6 +36,15 @@
         <entry key="..\:/Users/fabio/Desktop/tsi213aula07-master/app/src/main/res/menu/bottomnavmenu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/fabio/Desktop/tsi213aula07-master/app/src/main/res/menu/nvmenu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/fabio/Desktop/tsi213aula07-master/app/src/main/res/menu/toolbarmenu.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/settings.xml" value="0.266" />
+        <entry key="app/src/main/res/layout/activity_bottom_navigation.xml" value="0.30027173913043476" />
+        <entry key="app/src/main/res/layout/activity_novo_toolbar.xml" value="0.36231884057971014" />
+        <entry key="app/src/main/res/layout/activity_toolbar_menu.xml" value="0.30027173913043476" />
+        <entry key="app/src/main/res/layout/fragment_artists.xml" value="0.36231884057971014" />
+        <entry key="app/src/main/res/layout/fragment_playlist.xml" value="0.36231884057971014" />
+        <entry key="app/src/main/res/menu/bottomnavmenu.xml" value="0.5260416666666666" />
+        <entry key="app/src/main/res/menu/nvmenu.xml" value="0.5260416666666666" />
+        <entry key="app/src/main/res/menu/toolbarmenu.xml" value="0.5260416666666666" />
       </map>
     </option>
   </component>

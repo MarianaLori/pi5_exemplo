@@ -36,15 +36,15 @@ class NavigationViewActivity : AppCompatActivity() {
             when(it.itemId) {
                 R.id.artistas -> {
                     val frag = ArtistsFragment()
-                    supportFragmentManager.beginTransaction().replace(R.id.container, frag).commit()
+                    supportFragmentManager.beginTransaction().replace(R.id.activitycontainer, frag).commit()
                 }
                 R.id.albuns -> {
                     val frag = AlbumsFragment()
-                    supportFragmentManager.beginTransaction().replace(R.id.container, frag).commit()
+                    supportFragmentManager.beginTransaction().replace(R.id.activitycontainer, frag).commit()
                 }
                 else -> {
                     val frag = RecentsFragment()
-                    supportFragmentManager.beginTransaction().replace(R.id.container, frag).commit()
+                    supportFragmentManager.beginTransaction().replace(R.id.activitycontainer, frag).commit()
                 }
             }
 
